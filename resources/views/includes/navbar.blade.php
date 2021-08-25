@@ -9,7 +9,7 @@
                             <!-- Site Branding -->
                             <div class="site-branding">
                                 <a href="index.html">
-                                    <img src="assets/images/logo/babydaily-logo2.png" alt="Site Logo" />
+                                    <img src="assets/images/logo/babydaily-logo.png" alt="Site Logo" />
                                 </a>
                             </div><!--  /.site-branding -->
 

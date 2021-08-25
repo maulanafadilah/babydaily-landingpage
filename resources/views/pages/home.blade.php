@@ -33,7 +33,7 @@
                     <div class="col-lg-5">
                         <div class="hero-mockup-area">
                             <div class="hero-mockup-thumb">
-                                <img src="assets/images/others/hero2.jpg" alt="Thumb">
+                                <img src="assets/images/others/hero.jpg" alt="Thumb">
                             </div><!-- /.hero-mockup-thumb -->
                             <div class="element-group">
                                 <div class="element one">
@@ -201,10 +201,10 @@
                         <div class="col-lg-7 col-md-6">
                             <div class="skill-thumbnail-area ms-mrt-55">
                                 <div class="single-thumb">
-                                    <img src="assets/images/others/skill-thumb4x.jpg" alt="Thumbnail" />
+                                    <img src="assets/images/others/skill-thumb2.jpg" alt="Thumbnail" />
                                 </div>
                                 <div class="single-thumb two">
-                                    <img src="assets/images/others/skill-thumb3x.jpg" alt="Thumbnail" />
+                                    <img src="assets/images/others/skill-thumb1.jpg" alt="Thumbnail" />
                                 </div>
                             </div>
                             <!-- /.skill-thumbnail-area -->
@@ -239,32 +239,52 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="brands-link">
-                                        <img src="assets/images/brand/three/baby-happy2.png" alt="logo" />
+                                        <img src="assets/images/brand/baby-happy.png" alt="baby-happy" />
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="brands-link">
-                                        <img src="assets/images/brand/three/bebelac2.png" alt="logo" />
+                                        <img src="assets/images/brand/bebelac.png" alt="bebelac" />
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="brands-link">
-                                        <img src="assets/images/brand/three/lactogrow2.png" alt="logo" />
+                                        <img src="assets/images/brand/lactogrow.png" alt="lactogrow" />
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="brands-link">
-                                        <img src="assets/images/brand/three/merries2.png" alt="logo" />
+                                        <img src="assets/images/brand/merries.png" alt="merries" />
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="brands-link">
-                                        <img src="assets/images/brand/three/sweety-silver2.png" alt="logo" />
+                                        <img src="assets/images/brand/sweety-silver.png" alt="sweety-silver" />
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="brands-link">
-                                        <img src="assets/images/brand/three/dancow2.png" alt="logo" />
+                                        <img src="assets/images/brand/dancow.png" alt="dancow" />
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="brands-link">
+                                        <img src="assets/images/brand/pigeon.png" alt="pigeon" />
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="brands-link">
+                                        <img src="assets/images/brand/sgm.jpeg" alt="sgm" />
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="brands-link">
+                                        <img src="assets/images/brand/mamypoko.png" alt="mamypoko" />
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="brands-link">
+                                        <img src="assets/images/brand/vidoran.jpg" alt="vidoran" />
                                     </div>
                                 </div>
                             </div>
@@ -286,7 +306,7 @@
                         <div class="section-title">
                             <h4 class="sub-title color-secondary">Galeri Produk</h4>
                             <h2 class="title-main">
-                                Tidak hanya Aman. <br /> Namun yang Terbaik
+                                Tidak hanya Aman. <br /> Namun Terajangkau
                             </h2>
                         </div>
                         <!-- /.section-title -->

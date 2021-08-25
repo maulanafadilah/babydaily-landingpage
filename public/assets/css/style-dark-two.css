@@ -1,21 +1,21 @@
 body,
 .mainmenu .sub-menu,
 #sticky-header.active .site-header,
-.mobile-sidebar-menu .navigation{
-    background-color: #0F2027;
+.mobile-sidebar-menu .navigation {
+    background-color: #0f2027;
 }
 .hero-block.hero-block-one {
-    background-color: #1C253B !important;
+    background-color: #1c253b !important;
 }
 .about-us-block.style-one,
 .search-wrap .search-form {
-    background-color: #15293A !important;
+    background-color: #15293a !important;
 }
 .portfolio-block.style-one {
-    background-color: #1A302A !important;
+    background-color: #1a302a !important;
 }
 .latest-news-block.style-one {
-    background-color: #27282E !important;
+    background-color: #27282e !important;
 }
 .form-controller,
 .hero-block.hero-block-one .swiper-pagination .swiper-pagination-bullet,
@@ -23,15 +23,22 @@ body,
     background-color: #fff;
 }
 .btn-links-area .btn-links {
-    background-color: #1C243A;
+    background-color: #1c243a;
 }
-.portfolio-block .portfolio-scroll-slider.swiper-container-horizontal > .swiper-scrollbar {
-    background-color: #1B243A;
+.portfolio-block
+    .portfolio-scroll-slider.swiper-container-horizontal
+    > .swiper-scrollbar {
+    background-color: #1b243a;
 }
 .portfolio-block .portfolio-scroll-slider .swiper-scrollbar-drag {
-    background-color: #8B52E4;
+    background-color: #8b52e4;
 }
-h1, h2, h3, h4, h5, h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
 .read-more-text,
 .site-footer .widget-title,
 .fanfact-promo-numbers .promo-number.style-three .promo-title,
@@ -61,7 +68,7 @@ h1, h2, h3, h4, h5, h6,
     color: #4776e6;
 }
 .btn-links-area .btn-links {
-    color: #8e54e9;
+    color: #1fa2ff;
 }
 
 .btn-primary.btn-gradient-45 {
@@ -72,11 +79,11 @@ h1, h2, h3, h4, h5, h6,
     border-color: #fff;
 }
 .btn-default:hover {
-    border-color: #8E54E9;
+    border-color: #1fa2ff;
 }
 
 .team-block {
-	padding-bottom: 45px;
+    padding-bottom: 45px;
 }
 .mobile-sidebar-menu .navigation,
 #sticky-header.active .site-header {

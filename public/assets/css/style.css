@@ -1793,7 +1793,7 @@ img {
 }
 
 .color-secondary {
-    color: #8e54e9 !important;
+    color: #1fa2ff !important;
 }
 
 .color-white {
@@ -1901,7 +1901,7 @@ img {
 }
 
 .color-purple {
-    color: #8e54e9 !important;
+    color: #1fa2ff !important;
 }
 
 .color-curious-blue {
@@ -2076,7 +2076,7 @@ img {
 }
 
 .svg-white-smoke path {
-    fill: #8e54e9;
+    fill: #1fa2ff;
 }
 
 .svg-gainsboro path {
@@ -2312,7 +2312,7 @@ img {
 .bg-overlay-gradient:before {
     content: "";
     position: absolute;
-    background: -webkit-linear-gradient(-45deg, #4776e6, #8e54e9);
+    background: -webkit-linear-gradient(-45deg, #4776e6, #1fa2ff);
     width: 100%;
     height: 100%;
     left: 0;
@@ -3440,7 +3440,7 @@ body:not(.buddypress) .article-content table th {
 
 .text-gradient {
     color: #4776e6 !important;
-    background: linear-gradient(145deg, #4776e6, #8e54e9);
+    background: linear-gradient(145deg, #4776e6, #1fa2ff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     display: inline-block;
@@ -3523,9 +3523,9 @@ input::-moz-focus-inner {
 .btn-default {
     border-radius: 7px;
     padding: 10px 25px 8px;
-    color: #8e54e9;
+    color: #1fa2ff;
     background-color: transparent;
-    border: 1px solid #8e54e9;
+    border: 1px solid #1fa2ff;
     position: relative;
     z-index: 1;
     -webkit-transition: all 0.4s;
@@ -3546,16 +3546,16 @@ input::-moz-focus-inner {
 .btn-default:hover,
 .btn-default:focus {
     color: white !important;
-    background-color: #8e54e9;
+    background-color: #1fa2ff;
 }
 .btn-default.btn-white {
-    color: #8e54e9;
+    color: #1fa2ff;
     border-color: white;
     background-color: white;
 }
 .btn-default.btn-white:hover,
 .btn-default.btn-white:focus {
-    color: #8e54e9 !important;
+    color: #1fa2ff !important;
 }
 .btn-default.btn-green {
     color: #7bc043;
@@ -3574,15 +3574,15 @@ input::-moz-focus-inner {
     background-color: #ff6f69;
 }
 .btn-default.btn-smoke {
-    color: #4776e6;
+    color: #1fa2ff;
     background-color: whitesmoke;
     font-family: "Inter", sans-serif;
     border-color: whitesmoke;
 }
 .btn-default.btn-smoke:hover,
 .btn-default.btn-smoke:focus {
-    background-color: #4776e6;
-    border-color: #4776e6;
+    background-color: #1fa2ff;
+    border-color: #1fa2ff;
 }
 
 .btn-primary.active:focus:not(:disabled):not(.disabled),
@@ -3599,7 +3599,7 @@ input::-moz-focus-inner {
     -webkit-transition: ease-in 0.25s;
     transition: ease-in 0.25s;
     font-family: "Inter", sans-serif;
-    background: #4776e6;
+    background: #1fa2ff;
     font-size: 20px;
     padding: 10px 35px 9px;
 }
@@ -3627,18 +3627,18 @@ input::-moz-focus-inner {
 .btn-primary.btn-gradient {
     padding: 11px 25px 9px;
     font-size: 16px;
-    background: -webkit-linear-gradient(#8e54e9, #4776e6);
-    background: linear-gradient(#8e54e9, #4776e6);
+    background: -webkit-linear-gradient(#1fa2ff, #4776e6);
+    background: linear-gradient(#1fa2ff, #4776e6);
 }
 .btn-primary.btn-primary-color {
     padding: 11px 25px 9px;
     font-size: 16px;
-    background: -webkit-linear-gradient(#8e54e9, #4776e6);
-    background: linear-gradient(#8e54e9, #4776e6);
+    background: -webkit-linear-gradient(#1fa2ff, #4776e6);
+    background: linear-gradient(#1fa2ff, #4776e6);
 }
 .btn-primary.btn-gradient-45 {
-    background: -webkit-linear-gradient(305deg, #4776e6, #8e54e9);
-    background: linear-gradient(145deg, #4776e6, #8e54e9);
+    background: -webkit-linear-gradient(305deg, #4776e6, #1fa2ff);
+    background: linear-gradient(145deg, #4776e6, #1fa2ff);
 }
 
 .form-group-btn {
@@ -4220,8 +4220,8 @@ input[type="radio"]:checked + label:before {
 .site-header.header-style-three .social-status > a:hover,
 .site-header.header-style-three .social-status > a:focus {
     color: #4776e6 !important;
-    background: -webkit-linear-gradient(left, #8e54e9, #4776e6);
-    background: linear-gradient(to right, #8e54e9, #4776e6);
+    background: -webkit-linear-gradient(left, #1fa2ff, #4776e6);
+    background: linear-gradient(to right, #1fa2ff, #4776e6);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -4418,8 +4418,8 @@ input[type="radio"]:checked + label:before {
 .site-header.header-style-four .social-status-area .social-status > a:hover,
 .site-header.header-style-four .social-status-area .social-status > a:focus {
     color: #4776e6 !important;
-    background: -webkit-linear-gradient(left, #8e54e9, #4776e6);
-    background: linear-gradient(to right, #8e54e9, #4776e6);
+    background: -webkit-linear-gradient(left, #1fa2ff, #4776e6);
+    background: linear-gradient(to right, #1fa2ff, #4776e6);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -5513,8 +5513,8 @@ a:active {
 .hero-block.hero-block-one .social-status-area .social-status > a:hover,
 .hero-block.hero-block-one .social-status-area .social-status > a:focus {
     color: #4776e6 !important;
-    background: -webkit-linear-gradient(left, #8e54e9, #4776e6);
-    background: linear-gradient(to right, #8e54e9, #4776e6);
+    background: -webkit-linear-gradient(left, #1fa2ff, #4776e6);
+    background: linear-gradient(to right, #1fa2ff, #4776e6);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -5623,7 +5623,7 @@ a:active {
     .swiper-pagination-bullet.swiper-pagination-bullet-active {
     width: 25px;
     height: 25px;
-    background-color: #8e54e9;
+    background-color: #1fa2ff;
 }
 @media only screen and (max-width: 991px) {
     .hero-block.hero-block-one
@@ -5701,7 +5701,7 @@ a:active {
     .hero-mockup-thumb.one
     .promo-video
     .video-btn {
-    background-color: #8e54e9;
+    background-color: #1fa2ff;
     width: 85px;
     height: 85px;
     border: 0px solid;
@@ -7204,8 +7204,8 @@ a:active {
 .team-items-list .team-item .team-info .social-status > a:hover,
 .team-items-list .team-item .team-info .social-status > a:focus {
     color: #4776e6 !important;
-    background: -webkit-linear-gradient(left, #8e54e9, #4776e6);
-    background: linear-gradient(to right, #8e54e9, #4776e6);
+    background: -webkit-linear-gradient(left, #1fa2ff, #4776e6);
+    background: linear-gradient(to right, #1fa2ff, #4776e6);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     line-height: 1em;
@@ -7654,7 +7654,7 @@ a:active {
 .portfolio-block.style-four .portfolio-filter li a:hover,
 .portfolio-block.style-five .portfolio-filter li a.active,
 .portfolio-block.style-five .portfolio-filter li a:hover {
-    color: #8e54e9;
+    color: #1fa2ff;
 }
 .portfolio-block.style-four .portfolio-filter li:first-child > a,
 .portfolio-block.style-five .portfolio-filter li:first-child > a {
@@ -7952,8 +7952,8 @@ a:active {
     left: 0px;
     width: 100%;
     height: 100%;
-    background: -webkit-linear-gradient(135deg, #8e54e9, #4776e6);
-    background: linear-gradient(-45deg, #8e54e9, #4776e6);
+    background: -webkit-linear-gradient(135deg, #1fa2ff, #4776e6);
+    background: linear-gradient(-45deg, #1fa2ff, #4776e6);
     visibility: hidden;
     opacity: 0;
     -webkit-transition: ease-in-out 0.5s;
@@ -8118,8 +8118,8 @@ a:active {
 }
 .portfolio_mouseleve_title .work__cat {
     position: absolute;
-    background: -webkit-linear-gradient(305deg, #4776e6, #8e54e9);
-    background: linear-gradient(145deg, #4776e6, #8e54e9);
+    background: -webkit-linear-gradient(305deg, #4776e6, #1fa2ff);
+    background: linear-gradient(145deg, #4776e6, #1fa2ff);
     color: white;
     top: 100%;
     left: 0;
@@ -8539,8 +8539,8 @@ a:active {
 }
 .text-feature-block.style-two .btn-gradient-45 {
     padding: 10px 40px 9px;
-    background: -webkit-linear-gradient(305deg, #4776e6, #8e54e9);
-    background: linear-gradient(145deg, #4776e6, #8e54e9);
+    background: -webkit-linear-gradient(305deg, #4776e6, #1fa2ff);
+    background: linear-gradient(145deg, #4776e6, #1fa2ff);
 }
 @media only screen and (max-width: 1199px) {
     .text-feature-block.style-two .btn-gradient-45 {
@@ -12158,7 +12158,7 @@ a:active {
 .tb-subscribe-widget .social-status > a:hover,
 .tb-subscribe-widget .social-status > a:focus {
     color: white !important;
-    background: linear-gradient(-45deg, #8e54e9, #4776e6);
+    background: linear-gradient(-45deg, #1fa2ff, #4776e6);
 }
 .tb-subscribe-widget .subscribe-form #mc-form {
     position: relative;
@@ -12484,7 +12484,7 @@ a:active {
 .copyright-text a {
     display: inline-block;
     padding-left: 5px;
-    color: #8e54e9;
+    color: #1fa2ff;
 }
 .copyright-text a:hover {
     color: #4776e6;

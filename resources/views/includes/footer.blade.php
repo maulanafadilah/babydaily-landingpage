@@ -103,7 +103,7 @@
                         <div class="col-12">
                             <div class="footer-bottom-content text-center">
                                 <a class="footer-logo-area" href="#">
-                                    <img src="assets/images/logo/babydaily-logo2.png" alt="Logo" />
+                                    <img src="assets/images/logo/babydaily-logo.png" alt="Logo" />
                                 </a>
                                 <div class="copyright-text text-center">
                                     <p>© 2021 Baby Daily powered by <a href="http://startuphub.id" target="_blank" rel="noopener noreferrer">StartUpHub</a></p>
